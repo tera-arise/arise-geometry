@@ -1,6 +1,8 @@
 * text
+*.apd binary
 *.ico binary
 *.ogg binary
 *.png binary
 *.webp binary
+*.zgd binary
 *.zone binary
